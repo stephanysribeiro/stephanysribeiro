@@ -10,6 +10,8 @@ Brasileira morando atualmente em Portugal
 
 - ⌨️​ | **O que estou estudando atualmente:** Java, HTML5, CSS3 e JavaScript
 
+- 🦋​ | **Curiosidade sobre mim:**Você está lendo o perfil de uma viciada em livros de romance (cerca de 295 livros lidos).
+
 </div> 
 
 <div align="center" style="background: thistle;">
