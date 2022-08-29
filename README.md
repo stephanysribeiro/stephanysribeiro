@@ -1,12 +1,12 @@
 
 
-# <p style="text-align: center; background: thistle; color:black ;"> System.out.println(**"Olá, eu sou a Stephany!</💻​​🙋🏽‍♀️"**);</p>
+# <p align=center style="text-align: center; background: thistle; color:black ;"> System.out.println(**"Olá, eu sou a Stephany!</💻​​🙋🏽‍♀️"**);</p>
 
-<div style=" background: thistle; color:black; display:flex; flex-direction: column; align-itens:center;">
-<img height="200" widht="100px" src="img1.png" >
+<div align=center style=" background: thistle; color:black; display:flex; flex-direction: column; align-itens:center;">
+<img align=center height="200" widht="100px" src="img1.png" >
 
 - 👩🏽‍💻 ​| **Quem eu sou:** Meu nome é **Stephany** (ela/dela), tenho 17 anos e sou uma estudante de desenvolvimento web na Univille. 
-Sou uma brasileira morando atualmente em Portugal
+Brasileira morando atualmente em Portugal
 
 - ⌨️​ | **O que estou estudando atualmente:** Java, HTML5, CSS3 e JavaScript
 
@@ -14,7 +14,7 @@ Sou uma brasileira morando atualmente em Portugal
 
 <div align="center" style="background: thistle;">
   <a href="https://github.com/stephanysribeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephanysribeiro&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=stephanysribeiro&include_all_commits=true&theme=jolly"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanysribeiro&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 
