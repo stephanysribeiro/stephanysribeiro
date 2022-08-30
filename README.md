@@ -34,4 +34,7 @@ Brasileira morando atualmente em Portugal
   <a href="https://instagram.com/stehhss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "sousastephany2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/stephany-sousa-7369b5218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <img alt="profile views badge" src="https://komarev.com/ghpvc/?username=stephanysribeiro&style=flat&color=09131b&label=Views"">
+    </div>
+      
  
