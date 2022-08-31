@@ -23,6 +23,7 @@ Brasileira morando atualmente em Portugal
   </a>
  </div>
 
+## Linguagens de Programação e Redes Sociais
 <div align=center style="display: inline_block"><br>
   <img align="center" alt="ste-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ste-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
