@@ -17,10 +17,13 @@ Brasileira morando atualmente em Portugal
 <div align="center" >
   <a href="https://github.com/stephanysribeiro">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=stephanysribeiro&include_all_commits=true&theme=jolly"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanysribeiro&layout=compact&langs_count=7&theme=jolly"/>
-</div>
+  <div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="github stats bar" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanysribeiro&layout=compact&theme=jolly&card_width=300&hide=cmake,c,swift,kotlin,c%2B%2B,objective-c" />
+  </a>
+ </div>
 
-<div  style="display: inline_block"><br>
+<div align=center style="display: inline_block"><br>
   <img align="center" alt="ste-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ste-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ste-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
