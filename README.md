@@ -5,7 +5,7 @@
 <div align=center style=" background: thistle; color:black; display:flex; flex-direction: column; align-itens:center;">
 <img align=center height="200" widht="100px" src="img1.png" >
 
-- 👩🏽‍💻 ​| **Quem eu sou:** Meu nome é **Stephany** (ela/dela), tenho 17 anos e sou uma estudante de desenvolvimento backend na Univille. 
+- 👩🏽‍💻 ​| **Quem eu sou:** Meu nome é **Stephany** (ela/dela), tenho 17 anos e sou uma estudante de desenvolvimento full stack na Univille. 
 Brasileira morando atualmente em Portugal
 
 - ⌨️​ | **O que estou estudando atualmente:** Java, HTML5, CSS3 e JavaScript
