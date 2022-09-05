@@ -16,7 +16,7 @@ Brasileira morando atualmente em Portugal
 
 <div align="center" >
   <a href="https://github.com/stephanysribeiro">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=stephanysribeiro&include_all_commits=true&theme=jolly"/>
+  
   <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="github stats bar" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanysribeiro&layout=compact&theme=jolly&card_width=300&hide=cmake,c,swift,kotlin,c%2B%2B,objective-c" />
