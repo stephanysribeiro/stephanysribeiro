@@ -12,11 +12,6 @@ const stephany = {
   formação: "CTeSP - Informática e Comunicação Organizacional (Univ. Aveiro)",
   foco: "Front-end",
   stack: ["React", "TypeScript", "HTML", "CSS", "Figma"],
-  projetos: [
-    "Sistema de Faltas",
-    "FAQ Interativo",
-    "Lista Telefônica"
-  ],
   experiência: "Estágio na Horse Aveiro (Renault)",
   curiosidade: "amo ler e tirar fotos bonitas",
   objetivo: "Melhorar continuamente, aprender sempre e construir uma carreira sólida como dev :)."
